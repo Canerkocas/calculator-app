@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin: 250px;
+    margin-left: 770px;
+}
+
+.button{
+    height: 50px;
+    width: 95px;
+    font-size: 22px;
+    font-weight: bold; 
+    cursor: pointer; 
+    background: #00ccff;
+    border: 1px solid gray;
+
+}
+
+#screenid{
+    border: 3px solid #004d1a;
+    padding: 4px;
+    font-size: 30px;
+    width: 380px;
+   
+}
